@@ -1,4 +1,6 @@
 # Tiến trình RQN9 
+## Fix bug Jukebox (ngày 23/09/2020)
+- Sữa lỗi Jukebox không chạy khi được lưu url
 ## Tích hợp QUAY MAIBRAND thành công (ngày 22/09/2020)
 - Tích hợp QUAY MAIBRAND thành công, hoạt động ổn định!
 ## Bắt đầu tiến trình cập nhật RQN9 Panel (ngày 21/09/2020)
